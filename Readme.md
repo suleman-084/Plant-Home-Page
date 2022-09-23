@@ -26,4 +26,4 @@
 
 - how to use display `flex-property`
 
-<!-- ## [Live-link](https://homepage-of-plant-company.netlify.app/) of the project -->
+## [Live-link](https://plant-home-page06.netlify.app/) of the project
